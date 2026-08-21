@@ -12,6 +12,9 @@ public class Transaction {
     private Category category;
 
     public Transaction(String description, long amount, Category category) {
+        if (amount <= 0) {
+            throw new IllegalArgumentException("O valor da transação deve ser maior que zero");
+        }
         this.id = new TransactionId();
         this.description = description;
         this.amount = amount;
