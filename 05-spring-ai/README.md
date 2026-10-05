@@ -1,6 +1,7 @@
 # DIO Spring Boot - Final Project 05: Spring AI (budgeting)
 
 > Versão adaptada por [Ana - AnacLeonel](https://github.com/AnacLeonel), como parte do Desafio de Projeto do Bootcamp Santander/DIO.
+> Caminho no repositório: [`05-spring-ai`](https://github.com/AnacLeonel/dio-spring-boot-learning-track/tree/main/05-spring-ai)
 
 ## O que o projeto faz
 
